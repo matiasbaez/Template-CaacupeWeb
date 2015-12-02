@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 3.4.3/DTD template 1.0//ES" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+<extension version="3.4.3" type="template" client="site">
+	<name>Caacupe Web</name>
+	<creationDate>2015/23/08</creationDate>	
+	<author>Matias Baez</author>
+	<authorEmail>matiasbaez2512@gmail.com</authorEmail>
+	<authorUrl>http://www.caacupeweb.com</authorUrl>
+	<copyright>Copyright (C) 2015 Caacupe WEB</copyright>
+	<license>GPL</license>
+	<version>1.0.0</version>
+	<description>plantilla de busqueda</description>
+	<files>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<folder>css</folder>
+		<folder>fonts</folder>
+		<folder>img</folder>
+		<folder>js</folder>
+	</files>
+	<positions>
+		<position>mainmenu</position>
+		<position>recientes</position>
+		<position>acceso</position>
+		<position>megusta</position>
+	</positions>
+</extension>
